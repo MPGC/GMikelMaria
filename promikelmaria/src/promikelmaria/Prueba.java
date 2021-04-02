@@ -6,7 +6,7 @@ public class Prueba {
 		
 		System.out.println("Hola mundo!");
 		System.out.println("Adios mundo!");		
-		
+		System.out.println("Estamos online ;)");	
 	}
 	
 }
